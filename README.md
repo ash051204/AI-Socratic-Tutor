@@ -34,3 +34,6 @@ The system is designed to guide learners step-by-step instead of revealing solut
 - Integration with an LLM API
 - Interface development
 - User testing and evaluation
+
+## Identified Research Gap
+Existing AI tutoring systems either provide direct answers or use limited rule-based questioning. There is a lack of a unified framework that combines Socratic questioning, adaptive Bloom’s-based progression, and LLM-driven conversational reasoning in a single structured system.
