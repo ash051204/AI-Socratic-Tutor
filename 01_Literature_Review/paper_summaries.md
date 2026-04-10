@@ -6,7 +6,7 @@ This literature review surveys ten significant research contributions across the
 
 ---
 
-## 1 Detailed Review of Papers
+## Detailed Review of Papers
 
 ### Paper 1: Automatic Question Generation and Answer Assessment: A Survey (2021)
 
